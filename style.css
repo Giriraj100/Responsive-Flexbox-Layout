@@ -22,7 +22,7 @@ header{
 section{
     flex:4;
     /* border:2px solid red; */
-    background-color:#f93131;
+    /* background-color:#f93131; */
     border-radius:2em;
     display:flex;
     gap:1em;
